@@ -16,9 +16,9 @@ public class IndustrySMS {
 	private static String operation = "/industrySMS/sendSMS";
 
 	private static String accountSid = Config.ACCOUNT_SID;
-	private static String to = "15210905418";
+	private static String to = "152****5418";
 	//您的验证码为{1}，请于{2}分钟内正确输入，如非本人操作，请忽略此短信。
-	private static String smsContent = "【小郭科技123】您的验证码为123456，请于2分钟内正确输入，如非本人操作，请忽略此短信。";
+	private static String smsContent = "【小郭科技】您的验证码为123456，请于2分钟内正确输入，如非本人操作，请忽略此短信。";
 
 	/**
 	 * 验证码通知短信
